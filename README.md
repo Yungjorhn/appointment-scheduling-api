@@ -61,7 +61,7 @@ The API automatically handles time zone conversions so that users can view meeti
 Clone the repository:
 
 ```bash
-git clone https://github.com/ikeoluwapo-dev/appointment-scheduling-api.git
+git clone https://github.com/Yungjorhn/appointment-scheduling-api.git
 ```
 
 Navigate into the project folder:
